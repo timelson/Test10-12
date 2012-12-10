@@ -8,6 +8,8 @@ int _tmain(int argc, _TCHAR* argv[])
 {
 	printf("this is a change to the project");
 
+	// line added in clone by second user
+
 	return 0;
 }
 
