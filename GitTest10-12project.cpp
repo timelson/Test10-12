@@ -6,7 +6,7 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	printf("this is a change to the project. 1st user triggers conflict");
+	printf("this is a change to the project. Both users changed same line now conflict is merged");// you both touched this line 
 
 	// line added in clone by second user
 
